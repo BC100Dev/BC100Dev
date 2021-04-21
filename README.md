@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BeChris100
+- 👀 I’m interested in Game + App and AOSP Development 
+- 🌱 I’m currently learning into more Game and C/C++ Development
+- 📫 You can reach me on E-Mail (only, sorry): bechris.100@outlook.com
