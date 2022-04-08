@@ -11,7 +11,7 @@ I'm BeChris, but you may call me Chris or Christoph. I am an Android App and Gam
 - 🔭 I’m currently working on my big project.
 - :computer: Publishing codes with different tools (Android Studio / IntelliJ IDEA for Java-based Applications; PyCharm Community for Python Projects; Atom for other-type projects).
 - 🤔 I am always open for new project ideas.
-- 📫 ![E-Mail me!](mailto:bechris.100@outlook.com)
+- 📫 E-Mail me at bechris.100@outlook.com
 
 #### Knowledges
 
