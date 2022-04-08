@@ -23,6 +23,7 @@ I'm BeChris, but you may call me Chris or Christoph. I am an Android App and Gam
 
 #### Contact
 - :paperclip: [![Mail Badge](https://img.shields.io/badge/-@bechris100-00ffaf?style=flat&labelColor=13cabf&logo=instagram&logoColor=white)](https://instagram.com/bechris100)
+- :paperclip: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40bechris100)](https://twitter.com/BeChris100)
 - :email: bechris.100@outlook.com
 
 <details>
