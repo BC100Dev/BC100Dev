@@ -1,6 +1,3 @@
-## NOTICE
-As of now, I won't be using GitHub anymore because I will be switching to GitLab for future projects. Current repositories will be remain online (until the Admins/Moderators shut my account down or someone reports it), but it's updates won't be maintained here anymore. Please refer to [my GitLab Page](https://gitlab.com/BeChris100) to see my future and current projects along with my Arch Repository that I will be hosting on.
-
 ## Hi I'm BeChris 100 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi">
 
 I'm BeChris, but you may call me Chris or Christoph. I am an Android App and Game Developer. Most of my time, I spent on watching videos and coding on my projects.
