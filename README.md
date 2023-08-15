@@ -1,18 +1,19 @@
 ## Hi I'm BeChris 100 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi">
 
-I'm BeChris, but you may call me Chris or Christoph. I am an Android App and Game Developer. Most of my time, I spent on watching videos and coding on my projects.
+I'm BeChris, but you may call me Chris or Christoph. I do Java App Development, along with development in C/C++ because I like those languages.
 
 :mailbox: Contact or follow me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@BeChris100-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/BeChris100)
-[![Mail Badge](https://img.shields.io/badge/-@bechris100-00ffaf?style=flat&labelColor=00ffaf&logo=instagram&logoColor=white)](https://instagram.com/bechris100)
+[![Instagram Badge](https://img.shields.io/badge/-@bechris100-00ffaf?style=flat&labelColor=00ffaf&logo=instagram&logoColor=white)](https://instagram.com/bechris100)
 [![Mail Badge](https://img.shields.io/badge/-BeChris%20100-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bechris.100@outlook.com)
 
 - 🔭 I’m currently working on a big (privated) Project along with other small projects
+- Am I a virus writer..?
 - :computer: Publishing codes with different tools (Android Studio / IntelliJ IDEA for Java-based Applications; PyCharm Community for Python Projects; Atom for other-type projects).
 - 🤔 I am always open for new project ideas.
 - 📫 E-Mail me at bechris.100@outlook.com
-- I don't have that much of Java knowledge, although I do want to learn C and C++ 😂
+- I don't have that much of Java knowledge, learning C/C++
 
 #### Knowledges
 
@@ -22,10 +23,13 @@ I'm BeChris, but you may call me Chris or Christoph. I am an Android App and Gam
 [![C# Badge](https://img.shields.io/badge/-C_Sharp-3f13c4?style=for-the-badge&labelColor=black&logo=csharp&logoColor=c69676)](#)
 [![OS Badge](https://img.shields.io/badge/-Operating%20Systems-a8161c?style=for-the-badge&labelColor=black)](#)
 
+I'll do my own redesigns of those badges soon.
+
 #### Contact
 - :paperclip: [![Mail Badge](https://img.shields.io/badge/-@bechris100-00ffaf?style=flat&labelColor=13cabf&logo=instagram&logoColor=white)](https://instagram.com/bechris100)
 - :paperclip: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40bechris100)](https://twitter.com/BeChris100)
 - :email: bechris.100@outlook.com
+- :computer: Discord: bc100_bechris
 
 <details>
 <summary>
@@ -36,18 +40,8 @@ I'm BeChris, but you may call me Chris or Christoph. I am an Android App and Gam
 
 I love coding on my projects and doing stuff that probably no one ever did. In other words, I am just the way it is but in a difficult way.
 
-#### Coding Stats
-
-```text
-Java              ##############------
-HTML              ########------------
-CSS               ####----------------
-JavaScript        ##------------------
-C#                #####---------------
-C                 #-------------------
-C++               #-------------------
-Python            ######--------------
-```
+#### Update
+I decided to remove the list of me knowing languages because I do not update the About me Profile page regularly. That is one of them. Second, I can't keep up and possibly lie about my knowledges, so there's that. If anyone is still interested in knowing, what coding languages I understand, just message me on either 
 
 #### Github Stats
 
