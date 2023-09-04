@@ -41,7 +41,7 @@ I'll do my own redesigns of those badges soon.
 I love coding on my projects and doing stuff that probably no one ever did. In other words, I am just the way it is but in a difficult way.
 
 #### Update
-I decided to remove the list of me knowing languages because I do not update the About me Profile page regularly. That is one of them. Second, I can't keep up and possibly lie about my knowledges, so there's that. If anyone is still interested in knowing, what coding languages I understand, just message me on either 
+I decided to remove the list of me knowing languages because I do not update the About me Profile page regularly. That is one of them. Second, I can't keep up and possibly lie about my knowledges, so there's that. If anyone is still interested in knowing, what coding languages I understand, just message me on either Instagram, Discord or Twitter. As always, I still am trying to learn C alongside with C++, and understand the stupid linker errors.
 
 #### Github Stats
 
