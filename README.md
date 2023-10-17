@@ -9,7 +9,7 @@ I'm BeChris, but you may call me Chris or Christoph. I do Java App Development, 
 [![Mail Badge](https://img.shields.io/badge/-BeChris%20100-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bechris.100@outlook.com)
 
 - 🔭 I’m currently working on a big (privated) Project along with other small projects
-- Am I a virus writer..?
+- Am I a virus writer or just a Software developer..?
 - :computer: Publishing codes with different tools (Android Studio / IntelliJ IDEA for Java-based Applications; PyCharm Community for Python Projects; Atom for other-type projects).
 - 🤔 I am always open for new project ideas.
 - 📫 E-Mail me at bechris.100@outlook.com
