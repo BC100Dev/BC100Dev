@@ -10,10 +10,12 @@ I'm BeChris, but you may call me Chris or Christoph. I do Java App Development, 
 
 - 🔭 I’m currently working on a big (privated) Project along with other small projects
 - Am I a virus writer or just a Software developer..?
-- :computer: Publishing codes with different tools (Android Studio / IntelliJ IDEA for Java-based Applications; PyCharm Community for Python Projects; Atom for other-type projects).
+- :computer: Publishing codes with different tools (Android Studio / IntelliJ IDEA for Java-based Applications; PyCharm Community for Python Projects; Git CLI for other type of projects).
 - 🤔 I am always open for new project ideas.
 - 📫 E-Mail me at bechris.100@outlook.com
 - I don't have that much of Java knowledge, learning C/C++
+
+Also, Java is cool, and will never die. What's my flex? "Oh, and I wrote it in Java, by the way."
 
 #### Knowledges
 
