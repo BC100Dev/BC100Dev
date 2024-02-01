@@ -1,6 +1,6 @@
-## Hi I'm BeChris 100 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi">
+## BC100Dev Page <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi">
 
-I'm BeChris, but you may call me Chris or Christoph. I do Java App Development, along with development in C/C++ because I like those languages.
+I'm Christoph, also known as just Chris, BeChris, or as of now, BC100Dev. I do Java App Development, along with development in C/C++ because I like those languages.
 
 :mailbox: Contact or follow me!
 
@@ -12,7 +12,7 @@ I'm BeChris, but you may call me Chris or Christoph. I do Java App Development, 
 - Am I a virus writer or just a Software developer..?
 - :computer: Publishing codes with different tools (Android Studio / IntelliJ IDEA for Java-based Applications; PyCharm Community for Python Projects; Git CLI for other type of projects).
 - 🤔 I am always open for new project ideas.
-- 📫 E-Mail me at bechris.100@outlook.com
+- 📫 E-Mail me at contact@bc100dev.net (personal E-Mail is being redacted as of now)
 - I don't have that much of Java knowledge, learning C/C++
 
 Also, Java is cool, and will never die. What's my flex? "Oh, and I wrote it in Java, by the way."
