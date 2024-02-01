@@ -12,7 +12,7 @@ I'm Christoph, also known as just Chris, BeChris, or as of now, BC100Dev. I do J
 - Am I a malware/spyware writer or just a Software developer..?
 - :computer: Publishing codes with different tools (Android Studio / IntelliJ IDEA for Java-based Applications; PyCharm Community for Python Projects; Git CLI for other type of projects).
 - 🤔 I am always open for new project ideas.
-- 📫 E-Mail me at contact@bc100dev.net (personal E-Mail is being redacted as of now)
+- 📫 E-Mail me at contact@bc100dev.net
 - I don't have that much of Java knowledge, learning C/C++
 
 Also, Java is cool, and will never die. What's my flex? "Oh, and I wrote it in Java, by the way."
