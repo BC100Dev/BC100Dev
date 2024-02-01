@@ -29,8 +29,7 @@ I'll do my own redesigns of those badges soon.
 
 #### Contact
 - :paperclip: [![Mail Badge](https://img.shields.io/badge/-@bechris100-00ffaf?style=flat&labelColor=13cabf&logo=instagram&logoColor=white)](https://instagram.com/bechris100)
-- :paperclip: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40bechris100)](https://twitter.com/BeChris100)
-- :email: bechris.100@outlook.com
+- :email: contact@bc100dev.net (for quick assistance and important issues, reach out to [my personal E-Mail](mailto:bechris.100@outlook.com))
 - :computer: Discord: bc100dev
 
 <details>
@@ -43,7 +42,17 @@ I'll do my own redesigns of those badges soon.
 I love coding on my projects and doing stuff that probably no one ever did. In other words, I am just the way it is but in a difficult way.
 
 #### Update
-I decided to remove the list of me knowing languages because I do not update the About me Profile page regularly. That is one of them. Second, I can't keep up and possibly lie about my knowledges, so there's that. If anyone is still interested in knowing, what coding languages I understand, just message me on either Instagram, Discord or Twitter. As always, I still am trying to learn C alongside with C++, and understand the stupid linker errors.
+Some of you guys know, but I am no longer providing a list of me knowing programming languages because I don't regularly update my Profile page. However, this is the list of what languages I know (updated on 01-Feb-2024).
+
+| Language    | Skill Level                  |
+|-------------|------------------------------|
+| Java        | good (personal fav)          |
+| C           | average                      |
+| C++         | average - good               |
+| C#          | trash                        |
+| Python      | still a kid                  |
+| Kotlin      | dislikes all over the place  |
+| Go (Golang) | decent                       |
 
 #### Github Stats
 
