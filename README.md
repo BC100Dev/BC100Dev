@@ -13,7 +13,7 @@ and address the elephant in the room. Instead of just using that one language, I
 Java.
 
 However, I always like ideas for any type of project. I get personal, when you say
-that I can't do something ("or, you can't do that" flex).
+that I can't do something ("or, you can't do that" flex, given by DaniDev).
 
 Also, Java is cool, and will never die. I guess you could say that my flex would be,
 "Oh, I wrote it in Java, by the way." Something similar towards "I use Arch Linux,
@@ -31,11 +31,29 @@ include ransomware that is still visible on my GitHub page… Yeah, I don't talk
 about my bad side anymore. I like going more into the way of Security, Privacy and
 Customization.
 
+However, I like to do Software development outside my job. I like keeping things legacy,
+so I'll just straight up say that projects like Malware, Spyware and other types
+of malicious software always intrigue me, which clearly don't include ransomware that
+I have lately deleted from my GitHub page… Yeah, I don't talk about my bad side that
+much anymore. The way that I like making software nowadays is within the principle
+of SPC, standing for "Security, Privacy and Customization". Security would be for
+maintaing the security of projects, minimizing the risks of using external libraries
+that could have vulnerabilities at any given moment, meaning that less use of other
+libraries means more control over my projects. Privacy is towards the fact that I
+hate Spyware Operating Systems (talking about you, Microsoft!), meaning that I am
+aiming more towards Operating Systems like Linux. No, Linux is not an OS, but Distros
+like Debian and Ubuntu, are OS's (I use Arch Linux btw). Customization is the way
+that Linux gives you the complete control over the Customizability on how you want it
+to behave and stuff.
+
 Lately, I have shifted from Android development into Desktop development, using
 IntelliJ IDEA more than Android Studio. Mainly IntelliJ Ultimate. Yes, I pay for all
 products, hence they deserve respect.
 
 However, there is still that one big project being planned. Not spoiling, though!
+What I can spoil is that it might be a game, or even a story based on a set of movie
+episodes AND maybe a game. I won't spoil too much. For now, I am not revealing its
+name.
 
 ---
 
