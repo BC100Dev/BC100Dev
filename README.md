@@ -6,8 +6,8 @@ call me Chris. You can call me, however you want.
 ---
 
 ## Who am I?
-I am a Java developer that likes to get things to another level. Now usually, you
-would expect a Container Runtime to be either written in C, C++, Go or other
+I am a Java and C++ developer that likes to get things to another level. Now usually, 
+you would expect a Container Runtime to be either written in C, C++, Go or other
 languages that access the System-level, right? Yeah, I take it to a bigger challenge,
 and address the elephant in the room. Instead of just using that one language, I use
 Java.
