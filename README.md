@@ -63,8 +63,7 @@ name.
 - Discord: bc100dev
 - Instagram: [bc100dev](https://www.instagram.com/bc100dev/)
 - YouTube: [BC100Dev](https://www.youtube.com/@bc100dev)
-
-I am in the works of a Website, so no worries.
+- Website: [bc100dev.net](https://bc100dev.net) (still in the works)
 
 ---
 
