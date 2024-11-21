@@ -23,7 +23,7 @@ by the way", which is also actually true.
 
 ## What do I do?
 I do Software Development for a living. As of now, I am a trainee in Germany, being
-at an age of 19.
+at an age of 20. Currently in the second year of software development apprenticeship.
 
 However, I like to also do Software development outside my job. Projects like
 Malware, Spyware or other types of Software always intrigue me, which clearly don't
