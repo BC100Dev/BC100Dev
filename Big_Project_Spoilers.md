@@ -1,18 +1,10 @@
 # Spoilers for the big Project
-
 ## 21-11-2024
-One of the spoilers that I want to announce, is the fact that yes, it will be a
-game, and it will be a 3D game, heavily inspired by Watch Dogs and
-**Need for Speed**. I won't reveal the name just yet, or what the game would be
-like, but that is everything that you guys need to know about, for now. I'll keep
-you updated. That is, if I consider updating this file every now and then.
+One of the spoilers that I want to announce, is the fact that yes, it will be a 3D game. It will be heavily inspired by already established games, such as **Watch Dogs** and **Need for Speed**. I won't reveal the name just yet, or what the game would be like, but that is everything that the spoilers would show, at least for now. I will share the updates on the project, as long as I maintain this particular file.
 
 ## 11-05-2025
-The initial ideas for the big project I was initially aiming for, were ultimatively
-scrapped. However, that doesn't mean that I am letting this project fully go
-**offline**. No, it will remain **active**, since the concept idea has been
-refreshed into doing something that ***a particular company*** should have done
-years ago, but didn't make yet. In for the spoilers, the map is planned to be
-massive. Release date? 2069. Jokes aside, I might try and do an attempt in getting
-that one **legendary car** into the game, if the licensing allows me to. If you
-seemed to notice the boldness, you might get the idea in where this is going.
+The initial ideas for the big project were inherently scrapped, since the original ideas were meant to replicate the ideas of Watch Dogs and Need for Speed into one game, making things a part of my own ideas, meaning that the game itself is not going **offline**. Instead, the game will **always remain active**, respecting the choices of keeping the game alive (yes, I see you, [Stop Killing Games](https://www.stopkillinggames.com/)). However, since I can't seem to start the proper development on it, I have considered dropping the ideas. Now, I decided to refine the ideas themselves, and remake the ideas that have been already created by ***a particular company***, which their fan base really wished for, but never received, so I decided to create it. For now, I went with the suffix name, "The Expanded World", since the idea of the map itself is meant to be a giant map. To be exact, merging multiple game worlds into one.
+
+Another spoiler I can drop is the fact that you will be able to **customize the UI** for the game by going to the **Settings → Interface → LnF**. "LnF" stands for "Look and Feel", by the way. The idea for the world is to combine **4 games** into one. And before anyone says, "4 games, one story" and that it's FNaF, it's not because theoretically, it could be **4 game maps merged into one**, but I'll make sure that there is that the **5th game**, as a story-wise, will also remain in place.
+
+So, when can you guys expect the project to happen? 2029-2032. Maybe even shorter, depending on how and when I finally start the development, and if, and that's a big if, I also get **voice actors**, preferably in a studio to do the recordings, to occur. Yes, big spoilers, but don't get your hypes up just yet.
