@@ -1,102 +1,69 @@
 # BC100Dev Page <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="45px" alt="hi">
-Online, my name is BC100Dev, or as legacy names still can preserve, BeChris 100 and
-ChrisBe 090. However, my name is indeed Christoph, or just Chris. It is simpler to
-call me Chris. You can call me, however you want.
+Hello. My name is Christoph (Chris) for short. I am currently known as BC100Dev, but
+as some people may remember, I am also known as "BeChris 100" and "ChrisBe 090".
+These two names are my legacy names, even though I am switching names on my accounts
+from these legacy ones into my current. BC100Dev is short for "BeChris 100
+Development".
 
 ---
 
 ## Who am I?
-I am a C++ developer that likes to get things to another level. Now usually, you
-would expect a normal project to be written with a few dependencies, right? Yeah, I
-take it to the level, where I refuse to use the external dependencies because I like
-the bigger challenges, and address the elephant in the room, being the time
-management. Writing big projects with barely any dependencies sounds like too much
-work, but for someone that likes to take time with my projects, I see this as an
-absolute win.
+I am a C++ developer that likes to get things to a whole different level. Usually,
+a project consists of several dependencies to make the development simpler. That is
+not the same for me because I usually like to reinvent the wheel, even if it means
+sacrificing the time for development. However, I do like challenges, so I am willing
+to explore my knowledge with Java, C++, C#, Python and Golang to the absolute levels.
+One of my current projects I decided to make for the community is
+[AnlinxOS](https://github.com/BC100Dev/AnlinxOS), where I decided to take in some
+inspiration for new components.
 
-Also, I do tend to get personal, when someone decides to challenge me. Remember
-DaniDev, the one that made Karlson because someone said "he can't make a 3D game"?
-Yeah, I am somewhat similar to that because challenges are a big yes for me.
+While I tend to use Java from time to time, Java will never die. Although I have
+moved completely to C++, I refuse to let that programming language die. Yes, I am
+aware that my projects take a lot of time, but I don't want to rush things out
+into distribution, so that things aren't too rigged or something. I also use `cmake`
+to my absolute finest way possible.
 
-While I used Java back in the days, Java will never die, but in the recent months,
-Java started more boring, especially knowing that projects that take a lot of time
-tend to make me go away for a certain amount of time, come back, and have no idea,
-where to continue off. This is, where I prioritize C++ nowadays because I can make
-the build process go the way that I want, using `cmake`.
-
-Also, did you know that I use Arch Linux btw?
+By the way... I use Arch Linux :skull:
 
 ---
 
 ## What do I do?
-I do Software Development for a living. As of now, I am a trainee in Germany, being
-at an age of 20. Currently in the second year of software development apprenticeship.
-For those curious about my birthdate, it would be August 9th, 2004.
+I do Software Development for a current living. Currently, I am a trainee in Germany
+being at an age of 21, while also juggling a German dual-system apprenticeship (currently
+in the third year). I like to get creative with projects, so if something isn't inherently
+in a way that I like or want to expand, I just do what I seek for, especially in the Desktop
+space. Yes, I also moved from Android app dev to Desktop application development because of
+Google. Haven't heard the news yet? Then look up AOSP enshittification, Google installing 2
+apps for "security" (while being installed **without user consent**), along with them
+cracking down on custom ROMs and sideloading.
 
-However, I like to also do Software development outside my job. Projects like
-Malware, Spyware and other types of Software always intrigue me. Ransomware, on the
-other hand, while it's cool, I don't like the main intention of it, being stealing
-money, especially that it involves Bitcoin, which is crypto, something I don't like,
-nor being comfortable about it. Malware and Spyware, those are the somewhat key go-to's,
-but it's not cool to make them nowadays. I like Privacy more.
+Even though I do Software development as a part of my apprenticeship job, I like to make
+my own things outside of the job time. Malicious software also intrigue me, since I like
+a part of Cybersecurity and the understanding of how a software actually runs... even
+though I like `strings` and `grep` because you can fetch out literally everything without
+a hassle with tools like Ghidra. Even though that software like these intrigue me, I
+prefer Security and Privacy more.
 
-Anyway, I like to do Software development outside my job. I like keeping things legacy,
-so I'll just straight up say that projects like Malware, Spyware and other types
-of malicious software always intrigue me. The way that I like making software nowadays
-is within the principle of SPC, standing for "Security, Privacy and Customization".
-Security would be for maintaing the security of projects, minimizing the risks of using
-external libraries that could have vulnerabilities at any given moment, meaning that
-less use of other libraries means more control over my projects. Privacy is towards the
-fact that I hate Spyware Operating Systems (talking about you, Microsoft!), meaning that
-I am aiming more towards Operating Systems like Linux. No, Linux is not an OS, but
-Distros like Debian and Ubuntu, are OS's (I use Arch Linux btw). Customization is the way
-that Linux gives you the complete control over the Customizability on how you want it
-to behave and stuff.
+One of my priorities in software development is transparency and integrity. While I
+like to keep things legacy, I like to get upfront on what something really does.
+Another part of my development principles is making a certain software fully customizable,
+where people can customize their tools to their needs. With that, I basically make a
+principle of SPIC, where each letter has its meaning. Here is a rough translation of
+each principle:
 
-Lately, I have shifted from Android development into Desktop development, using
-IntelliJ IDEA more than Android Studio. Mainly IntelliJ Ultimate. Yes, I pay for all
-products, hence they deserve respect.
+- **S - Security**: Keep things up to date and fight malicious actors &amp; scammers
+- **P - Privacy**: Bring people the ability to control, how their user data is handled
+  (or rather, not to handle any user data because I don't want any)
+- **I - Integrity**: Be upfront and transparent
+- **C - Customizability**: Let people have control of how things work
 
-As of the IDEs that I am using, I shifted from using Android Studio (Android App
-Development) into Desktop development, using tools like IntelliJ IDEA (Ultimate),
-CLion, PyCharm and Rider (yes, I did C#, and sometimes still do). Yes, I use the
-JetBrains IDEs because they are seriously better IDEs in my opinion.
-
-However, there is still that one big project being planned. Not spoiling, though!
-What I can spoil is that it might be a game, or even a story based on a set of movie
-episodes AND maybe a game. I won't spoil too much, but the particular project,
-[SysVXGE](https://github.com/BC100Dev/SysVXGE) will come into play for ***these
-games***.
-
----
-
-## Spoilers for the big Project
-
-### 21-11-2024
-One of the spoilers that I want to announce, is the fact that yes, it will be a
-game, and it will be a 3D game, heavily inspired by Watch Dogs and
-**Need for Speed**. I won't reveal the name just yet, or what the game would be
-like, but that is everything that you guys need to know about, for now. I'll keep
-you updated. That is, if I consider updating this file every now and then.
-
-### 11-05-2025
-The initial ideas for the big project I was initially aiming for, were ultimatively
-scrapped. However, that doesn't mean that I am letting this project fully go
-**offline**. No, it will remain **active**, since the concept idea has been
-refreshed into doing something that ***a particular company*** should have done
-years ago, but didn't make yet. In for the spoilers, the map is planned to be
-massive. Release date? 2069. Jokes aside, I might try and do an attempt in getting
-that one **legendary car** into the game, if the licensing allows me to. If you
-seemed to notice the boldness, you might get the idea in where this is going.
-
-### Further updates
-I will share all updates in the other file to not bloat the entire README file,
-under the file of [Big_Project_Spoilers.md](Big_Project_Spoilers.md).
+Considering that I like Linux and Android rooting is also another thing, as to why
+I really like to adhere to that principle. Also, fuck Microsoft and Google forcing
+us into being controlled by them.
 
 ---
 
 ## Contact
-
 - E-Mail: [contact@bc100dev.net](mailto:contact@bc100dev.net)
 - Discord: bc100dev
 - Instagram: [bc100dev](https://www.instagram.com/bc100dev/)
@@ -114,8 +81,7 @@ under the file of [Big_Project_Spoilers.md](Big_Project_Spoilers.md).
 | C++         | good - nice (personal fav)   |
 | C#          | average                      |
 | Python      | becoming better              |
-| Kotlin      | dislikes all over the place  |
-| Go (Golang) | decent                       |
+| Go (Golang) | intermediate                 |
 
 ---
 
