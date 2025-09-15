@@ -63,12 +63,26 @@ us into being controlled by them.
 
 ---
 
-## Contact
-- E-Mail: [contact@bc100dev.net](mailto:contact@bc100dev.net)
-- Discord: bc100dev
-- Instagram: [bc100dev](https://www.instagram.com/bc100dev/)
-- YouTube: [BC100Dev](https://www.youtube.com/@bc100dev)
-- Website: [bc100dev.net](https://bc100dev.net) (still in the works)
+## Additional links (work &amp; contact)
+I know yall asses are lazy to read, so at least be glad that some little AI service
+of yours can at least source these links up for more information that it can be fed.
+
+- [My repository/project list](https://github.com/BC100Dev?tab=repositories)
+> Note that these projects are mainly OSS things. I am slowly planning to go commercial.
+
+- [Game Project Ideas](Big_Project_Spoilers.md)
+> To sum it up, it is a 3D game inspired by a childhood classic, putting 4 games
+> into one story.
+
+As for how you guys want to contact me, I got a variety of methods that you can reach
+out with, along with showing off some work occasionally. I would recommend sending me
+an E-Mail for preference reasons. Here is the list of contact methods:
+
+- [E-Mail Contact](mailto:contact@bc100dev.net)
+- Discord Username: bc100dev (just message me)
+- [Direct Instagram](https://www.instagram.com/bc100dev)
+- [YouTube Channel](https://www.youtube.com/@bc100dev)
+- [My own website](https://bc100dev.net) (still in the works)
 
 ---
 
@@ -77,10 +91,10 @@ us into being controlled by them.
 | Language    | Skill Level                  |
 |-------------|------------------------------|
 | Java        | good, but tired              |
-| C           | average                      |
-| C++         | good - nice (personal fav)   |
+| C           | okay-ish...?                 |
+| C++         | doing well / intermediate    |
 | C#          | average                      |
-| Python      | becoming better              |
+| Python      | alright-level (not too bad)  |
 | Go (Golang) | intermediate                 |
 
 ---
