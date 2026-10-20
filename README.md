@@ -7,6 +7,18 @@ Development".
 
 ---
 
+## Temporary Notice about my website
+As of October 2026, [my website](https://bc100dev.net) is currently offline. It's
+more of a short-term thing and I will be doing a complete redesign. No, it's not
+permanent, but I hope that by the end of this year, I will bring the servers back
+up from retirement, considering that there was no maintenance. Yeah... you guys could
+say that I let my provider delete the server, since I was paying for a server that
+I wasn't putting any maintenance on. But hey, it's peak unemployment anyway, since
+the job market is completely cooked. I just wonder, where the blame can be put on,
+which the tech definitely starts with A and has another word that starts with I...
+
+---
+
 ## Who am I?
 I am a C++ developer that likes to get things to a whole different level. Usually,
 a project consists of several dependencies to make the development simpler. That is
